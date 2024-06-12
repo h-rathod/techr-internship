@@ -1,12 +1,22 @@
-# TechR-Internship
-This Repo contains projects made by [Harsh Rathod](https://www.linkedin.com/in/rathodharsh/) during the internship period at TechR Business Solutions.
-Feel free to check all the projects.
-Here I've worked on Projects:-
-1.  Machine Failure Prediction
-2.  Data camp Guided Project
-3.  Stock Price prediction ( used LSTM and SARIMAX)
-4.  Fake Face Detection (using VGG16)
-5.  Text based Video Generation (Using ALI-VILAB's pretrained model. Named "text-to-video-synthesis" from Hugging face )
-6.  Used CLVP-large model from TorToiSe
+# TechR Internship Projects
 
-Thank you!!
+Welcome to the TechR Internship Projects repository! This repository showcases the work done by [Harsh Rathod](https://www.linkedin.com/in/rathodharsh/) during his internship at TechR Business Solutions.
+
+## Projects Overview
+
+Explore the projects developed during the internship:
+
+1. **Machine Failure Prediction**
+2. **Data Camp Guided Project**
+3. **Stock Price Prediction**  
+   Utilizing LSTM and SARIMAX models.
+4. **Fake Face Detection**  
+   Implemented using the VGG16 model.
+5. **Text-Based Video Generation**  
+   Leveraged ALI-VILAB's pretrained "text-to-video-synthesis" model from Hugging Face.
+6. **Audio-Visual Synthesis**  
+   Utilized the CLVP-large model from TorToiSe.
+
+Feel free to explore the projects and provide your feedback!
+
+Thank you for visiting!
