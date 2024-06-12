@@ -1,4 +1,4 @@
-# techr-internship
+# TechR-Internship
 This Repo contains projects made by [Harsh Rathod](https://www.linkedin.com/in/rathodharsh/) during the internship period at TechR Business Solutions.
 Feel free to check all the projects.
 Here I've worked on Projects:-
